@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tazeen Ara</h1>
-<h3 align="center">A passionate learner who what to develope the skills</h3>
+<h3 align="center">A Deep learner who what to develope the skills</h3>
 
 - 🔭 I’m currently working on **Sales Forecasting Dashboard**
 
